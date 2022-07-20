@@ -1,5 +1,5 @@
 # AZYDS0003
-Deroscapes series non-fungible asset (NFA) by Azylem - AZYDS0001 "Gate Reactor v1"
+Deroscapes series non-fungible asset (NFA) by Azylem - AZYDS0003 "Gate Reactor v1"
 
 Copyright 2022 Azylem. All rights reserved.
 
