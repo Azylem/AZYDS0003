@@ -3,6 +3,6 @@ Deroscapes series non-fungible asset (NFA) by Azylem - AZYDS0003 "Gate Reactor v
 
 Copyright 2022 Azylem. All rights reserved.
 
-SCID: da8ed8038bdcf1ca7a5f5d451e06bcad2e9b3ac95821f755a98a5ec49ac2fbe8
+SCID: c5cb0f5b8bfc9fe870c30f206851e0fd5f8a5b415afd90eded81a60d36928ae8
 
 Creator: dero1qyfk5w2rvqpl9kzfd7fpteyp2k362y6audydcu2qrgcmj6vtasfkgqq9704gn
